@@ -1,4 +1,11 @@
-## Hello there👋.I'm Oluwanifemi, a Data Analyst with a passion for everything data and analytics. 
+## Hello there👋.
+
+### Biochemistry Graduate | Data Analytics & Business Intelligence
+
+I'm Oluwanifemi, a Data Analyst with a passion for everything data and analytics, using them to solve practical business problem. I focus on exploring datasets, identifying patterns, investigating data quality issues, and translating findings into insights that support better decisions.
+
+### 📚 Projects
+Explore my data analytics projects here in my [Portfolio](https://github.com/Jeddalo/Data-Analysis-Portfolio/blob/main/README.md) 
 
 <!--
 **Jeddalo/Jeddalo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
